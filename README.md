@@ -62,6 +62,6 @@ Fake Images Generation after 30 Epochs:
 
 ![training-result](results/dcgan_training.gif)
 
-Fake Images Generation after 15 Epochs:
+Fake Images Generation after 30 Epochs:
 ![results_15epoch](results/fakes_epoch30.jpg)
 
