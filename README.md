@@ -57,7 +57,8 @@ For Generating new samples:
 
 Following are the results after training GAN on 128x128 resolution CelebA face images for 15 epochs on 2 NVIDIA Tesla K80 GPUs with global batch size of 32 (batch size 16 per gpu). Detailed configuration can be found in config.py 
 
-Fake images generation during course of GAN training:
+
+Fake Images Generation after 30 Epochs:
 
 ![training-result](results/dcgan_training.gif)
 
