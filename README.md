@@ -62,5 +62,5 @@ Fake images generation during course of GAN training:
 ![training-result](results/dcgan_training.gif)
 
 Fake Images Generation after 15 Epochs:
-![results_15epoch](results/fakes_epoch15.jpg)
+![results_15epoch](results/fakes_epoch30.jpg)
 
