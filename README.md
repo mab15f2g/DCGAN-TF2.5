@@ -60,5 +60,9 @@ Following are the results after training GAN on 128x128 resolution CelebA face i
 
 Fake Images Generation after 30 Epochs:
 
-![results_30epoch](results/dcgan_training.gif)
+![training-result](results/dcgan_training.gif)
+
+Fake Images Generation after 15 Epochs:
+![results_15epoch](results/fakes_epoch30.jpg)
+
 
